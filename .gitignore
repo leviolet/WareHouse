@@ -1,0 +1,15 @@
+/**/private/
+
+# TEMP JPG
+/GetCNBingPicture/*.jpg
+
+# Python
+/**/__pycache__/
+
+
+# Keil
+/**/STC89C52/Objects/
+/**/STC89C52/Listings/
+*.uvopt
+*.uvproj
+*.uvgui.1

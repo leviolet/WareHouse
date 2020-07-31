@@ -8,7 +8,7 @@ Python实现的获取必应每日图片爬虫
 
 ## ILoveJLU
 
-Python turtle 实现的绘制 I Love JLU
+Python turtle 实现的绘制文字
 
 ## CoolPrint
 
@@ -17,6 +17,11 @@ Python turtle 实现的绘制 I Love JLU
 ## CCalculater
 
 C 语言计算器  
+
+## CursorLock
+
+锁定光标。  
+一个C 语言恶搞程序。  
 
 ## OMGMusicGame
 
